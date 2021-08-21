@@ -1,7 +1,9 @@
 # Broom
 **Broom Class**. This Class handles `Connections` for `Events` and `Functions`. 
 
-This Class was highly inspired off of [Maid Class](https://github.com/Quenty/NevermoreEngine/blob/version2/Modules/Shared/Events/Maid.lua). Except **Broom Class** `Index's` your `Tasks` for easy management. 
+This Class was highly inspired off of [Maid Class](https://github.com/Quenty/NevermoreEngine/blob/version2/Modules/Shared/Events/Maid.lua). Except **Broom Class** `Index's` your `Tasks` for easy management.
+
+Copy and Paste the [Source Code]() into a ModuleScript.
 
 # Usage
 
