@@ -3,7 +3,7 @@
 
 This Class was highly inspired off of [Maid Class](https://github.com/Quenty/NevermoreEngine/blob/version2/Modules/Shared/Events/Maid.lua). Except **Broom Class** `Index's` your `Tasks` for easy management.
 
-Copy and Paste the [Source Code]() into a ModuleScript.
+Copy and Paste the [Source Code](https://github.com/CiAxe/Broom/blob/main/Source.lua) into a ModuleScript.
 
 # Usage
 
