@@ -14,7 +14,7 @@ Copy and Paste the [Source Code](https://github.com/CiAxe/Broom/blob/main/Source
   ```
 
 ### `:Give(MethodName, Task)`
-- Creates a new class and `Returns` `nil`
+- Creates a new class and `Returns` `nil` or `Instance`
  ```lua
   --.. If Task is an Event
   Broom:Give("Heartbeat", RunService.Heartbeat:Connect(function()  end))
@@ -23,7 +23,7 @@ Copy and Paste the [Source Code](https://github.com/CiAxe/Broom/blob/main/Source
   Broom:Give("OnLeave", function()  end)
   
   --.. If Task is an Instance
-  Broom:Give("Instance", Part)
+  local Part = Broom:Give("Instance", Part)
   ```
   
 ### `:Sweep(MethodName)`
