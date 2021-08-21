@@ -34,6 +34,10 @@ function Broom:Give(Index, Task)
 		if not self._tasks[Index] then
 			self._tasks[Index] = Task
 		end
+		
+		if typeof(Task) == "Instance" then
+			return Task
+		end
 	end
 end
 
